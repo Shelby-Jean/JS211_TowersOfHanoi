@@ -1,3 +1,9 @@
+****CODE PLAN****
+1. You win the game by getting all towers stacked on the third tower in order from largest on bottom to smallest on top.
+1. The game will need to block illegal moves, like placing a largest disc on top of a smaller disc.
+1.
+
+
 # JS211_Towers of Hanoi[![CircleCI](https://circleci.com/gh/AustinCodingAcademy/javascript-workbook/tree/gh-pages.svg?style=svg)](https://circleci.com/gh/AustinCodingAcademy/javascript-workbook/tree/gh-pages)
 
 ![](http://en.gravatar.com/userimage/107370100/a08594145564536138dfaaf072c7b241.png)
