@@ -1,7 +1,8 @@
 ****CODE PLAN****
 1. You win the game by getting all towers stacked on the third tower in order from largest on bottom to smallest on top.
 1. The game will need to block illegal moves, like placing a largest disc on top of a smaller disc.
-1.
+1. In order to move a piece, it first needs to check if it's a legal move by checking if the piece you are moving is smaller than the piece you are placing it on.
+1. To move a piece, the last item in the array needs to be removed and placed onto the new array of whichever stack the player is choosing.
 
 
 # JS211_Towers of Hanoi[![CircleCI](https://circleci.com/gh/AustinCodingAcademy/javascript-workbook/tree/gh-pages.svg?style=svg)](https://circleci.com/gh/AustinCodingAcademy/javascript-workbook/tree/gh-pages)
